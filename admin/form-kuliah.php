@@ -37,7 +37,7 @@
 		  </div>
 		</nav>
 		<div class="jumbotron">
-		<h3 class="text-uppercase text-center">DATA PEMBELAJARAN</h3><br/>
+		<h3 class="text-uppercase text-center">JADWAL MATA KULIAH</h3><br/>
 		<div class="container">
 		<table class="table">
 			<thead class="bg-dark text-white">
